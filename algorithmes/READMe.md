@@ -1,0 +1,10 @@
+Liens GitHub de toutes les ressources utilisées :
+- [LogHub](https://github.com/logpai/loghub)
+- [DeepLog](https://github.com/Thijsvanede/DeepLog)
+- [DeepCase](https://github.com/Thijsvanede/DeepCASE)
+- [Loglizer](https://github.com/logpai/loglizer)
+- [Deep-Loglizer](https://github.com/logpai/deep-loglizer)
+- [PLELog](https://github.com/LeonYang95/PLELog)
+- [LogBert](https://github.com/HelenGuohx/logbert)
+- [LogGPT](https://github.com/nokia/LogGPT)
+- [LogADEmpirical](https://github.com/LogIntelligence/LogADEmpirical)
